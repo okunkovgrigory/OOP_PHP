@@ -1,0 +1,8 @@
+Окуньков;22;j.e.t.balance@mail.ru;2;
+Александров;22;alex@mail.ru;1;
+Иванов;18;ivan@gmail.com;4;
+Никита;19;nikita2002@yandex.ru;14;
+Петров;25;j.e.t.balance@mail.ru;13;
+Васильев;34;vasilev@icloud.com;15;
+Полина;19;polinochka@mail.ru;8;
+Вакуленко;20;ask@mail.ru;12;
